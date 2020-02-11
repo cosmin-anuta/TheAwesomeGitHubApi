@@ -1,0 +1,6 @@
+module Pods_TheSuperTest {
+  umbrella header "Pods-TheSuperTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
